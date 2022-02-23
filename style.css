@@ -19,13 +19,6 @@ article{
     margin: 0 auto;
 }
 
-#forest{
-    width: auto; height:auto;
-    max-width: 800px;
-    max-height: 400px;
-    justify-items: center;
-}
-
 #animal{
     font-size: 40px;
     background-color: rgb(255, 246, 124);
