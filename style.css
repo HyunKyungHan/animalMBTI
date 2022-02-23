@@ -23,7 +23,11 @@ article{
     font-size: 40px;
     background-color: rgb(255, 246, 124);
 }
-
+#forest{
+    display:block;
+    margin-left: 10%;
+    margin-right: 10%;
+}
 #title{
     font-size: 25px;
 }
