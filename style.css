@@ -1,0 +1,51 @@
+article{
+    display:flex;
+    flex-direction: column;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.question{
+    display:none;
+} 
+
+.result{
+    display: none;
+}
+
+#img{
+    width: auto; height: auto;
+    max-width: 300px;
+    max-height: 300px;
+    margin: 0 auto;
+}
+
+#forest{
+    width: auto; height:auto;
+    max-width: 800px;
+    max-height: 400px;
+    justify-items: center;
+}
+
+#animal{
+    font-size: 40px;
+    background-color: rgb(255, 246, 124);
+}
+
+#title{
+    font-size: 25px;
+}
+
+#A{
+    font-size: 18px;
+}
+
+#B{
+    font-size: 18px;
+}
+
+#explain{
+    font-size: large;
+}
+.share{
+    margin: 0 auto;
+}
